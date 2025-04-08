@@ -6,14 +6,13 @@ Sou desenvolvedor(a) apaixonado(a) por construir soluções inovadoras e eficien
 
 Eu trabalho com as seguintes tecnologias:
 
-### Frontend
-- ![HTML](https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) Angular
-
-### Backend
-- ![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white) Java
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) Spring Boot
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" height="50" width="50"/>
+</div>
 
 ## 🚀 Projetos
 
