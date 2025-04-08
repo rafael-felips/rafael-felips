@@ -7,7 +7,7 @@ Sou desenvolvedor(a) apaixonado(a) por construir soluções inovadoras e eficien
 Eu trabalho com as seguintes tecnologias:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" height="50" width="50"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50" width="50"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="50" width="50"/>
   <img src="https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="50" width="50"/>
